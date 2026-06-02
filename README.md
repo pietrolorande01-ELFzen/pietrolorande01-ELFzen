@@ -15,11 +15,11 @@
   <img src="https://i.pinimg.com/736x/e4/fa/ff/e4faff7a1804e58acbf1aa867d38c211.jpg" width="600" style="border-radius: 15px;"/>
 </p>
 
+
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=FF3E6E&height=2&section=header"/>
 </p>
-
-
 
 
 <p align="center">
@@ -52,6 +52,9 @@
   読書、ギター、ロック音楽、そして新しい言語の学習が好きです。
 </p>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=FF3E6E&height=2&section=header"/>
+</p>
 
 
 <p align="center">
