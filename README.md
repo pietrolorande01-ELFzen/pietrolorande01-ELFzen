@@ -1,13 +1,26 @@
 
-<h1 align="center">
-  <span style="color:#FF3E6E;"> BEM VINDO | WELCOME | 欢迎 | いらっしゃいませ </span>
-</h1>
-
 <p align="center">
-  <img src="https://i.pinimg.com/736x/e4/fa/ff/e4faff7a1804e58acbf1aa867d38c211.jpg" width="400" style="border-radius: 15px;"/>
+  <img src="https://readme-typing-svg.herokuapp.com/?color=FF3E6E&size=28&center=true&vCenter=true&width=800&lines=BEM+VINDO+%7C+WELCOME+%7C+欢迎+%7C+いらっしゃいませ" />
 </p>
 
----
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=FF3E6E&size=25&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Cybersecurity+Enthusiast;Always+Learning+New+Things" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=FF3E6E&height=2&section=header"/>
+</p>
+
+<p align="center">
+  <img src="https://i.pinimg.com/736x/e4/fa/ff/e4faff7a1804e58acbf1aa867d38c211.jpg" width="600" style="border-radius: 15px;"/>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=FF3E6E&height=2&section=header"/>
+</p>
+
+
+
 
 <p align="center">
   🇧🇷<br>
@@ -40,15 +53,18 @@
 </p>
 
 
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=22&duration=2000&pause=1500&color=FF3E6E&center=true&vCenter=true&width=600&height=60&lines=Apenas+um+nerd;Just+a+nerd;%E5%8F%AA%E6%98%AF%E4%B8%AA%E4%B9%A6%E5%91%86%E5%AD%90;%E3%81%9F%E3%81%A0%E3%81%AE%E3%82%AA%E3%82%BF%E3%82%AF&background=0A0A0A" alt="LED Marquee" />
 </p>
 
----
+
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30" title="Python"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="30" title="Java"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" title="JavaScript"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF3E6E&height=100&section=footer"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-FF3E6E?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-FF3E6E?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-FF3E6E?style=for-the-badge&logo=javascript&logoColor=white"/>
 </p>
