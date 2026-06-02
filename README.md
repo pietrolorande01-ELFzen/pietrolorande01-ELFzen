@@ -12,10 +12,8 @@
 </p>
 
 <p align="center">
-  <img src="https://i.pinimg.com/736x/e4/fa/ff/e4faff7a1804e58acbf1aa867d38c211.jpg" width="600" style="border-radius: 15px;"/>
+  <img src="https://media.giphy.com/media/XG444KXEaA3zW/giphy.gif" width="700"/>
 </p>
-
-
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=FF3E6E&height=2&section=header"/>
