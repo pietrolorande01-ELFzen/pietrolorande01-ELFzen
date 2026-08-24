@@ -21,36 +21,6 @@
 
 
 <p align="center">
-  🇧🇷<br>
-  Estudante de Ciência da Computação, apaixonado por tecnologia e aprendizado contínuo.<br>
-  Gosto de ler, tocar guitarra, ouvir rock e aprender novos idiomas.
-</p>
-
-<br>
-
-<p align="center">
-  🇺🇸<br>
-  Computer Science student passionate about technology and continuous learning.<br>
-  I enjoy reading, playing guitar, listening to rock, and learning new languages.
-</p>
-
-<br>
-
-<p align="center">
-  🇨🇳<br>
-  计算机科学学生，热爱技术与持续学习。<br>
-  喜欢阅读、弹吉他、听摇滚音乐和学习新语言。
-</p>
-
-<br>
-
-<p align="center">
-  🇯🇵<br>
-  コンピュータサイエンスの学生で、技術と継続的な学習に情熱を持っています。<br>
-  読書、ギター、ロック音楽、そして新しい言語の学習が好きです。
-</p>
-
-<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=FF3E6E&height=2&section=header"/>
 </p>
 
