@@ -8,7 +8,7 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0E4429&height=2&section=header"/>
 </p>
 <p align="center">
-  <img src="https://media.giphy.com/media/XG444KXEaA3zW/giphy.gif" width="700"/>
+  <img src="[https://media.giphy.com/media/XG444KXEaA3zW/giphy.gif](https://giffiles.alphacoders.com/126/126433.gif)" width="700"/>
 </p>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0E4429&height=2&section=header"/>
