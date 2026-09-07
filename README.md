@@ -8,9 +8,7 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0E4429&height=2&section=header"/>
 </p>
 <p align="center">
-  <img src="<p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzhybnMzdG5vZ3BkZnV4dXo4ZTRveHZ5MWg4b2NoMjhocHJtc2RydSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/8U2oqvvfkNJxBWXceN/giphy.gif" width="700"/>
-</p>" width="700"/>
 </p>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0E4429&height=2&section=header"/>
