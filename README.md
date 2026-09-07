@@ -8,7 +8,9 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0E4429&height=2&section=header"/>
 </p>
 <p align="center">
-  <img src="[[https://media.giphy.com/media/XG444KXEaA3zW/giphy.gif](https://giffiles.alphacoders.com/126/126433.gif)](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzhybnMzdG5vZ3BkZnV4dXo4ZTRveHZ5MWg4b2NoMjhocHJtc2RydSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/8U2oqvvfkNJxBWXceN/giphy.gif)" width="700"/>
+  <img src="<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzhybnMzdG5vZ3BkZnV4dXo4ZTRveHZ5MWg4b2NoMjhocHJtc2RydSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/8U2oqvvfkNJxBWXceN/giphy.gif" width="700"/>
+</p>" width="700"/>
 </p>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0E4429&height=2&section=header"/>
